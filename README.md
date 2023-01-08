@@ -6,7 +6,18 @@ about me
 
 ### Languages/Libraries
 
+- Swift
+  - Cocoa
+  - 
+
+### Tooling
+
+- Xcode
+- Deployed apps to my personal phone
+
 ### Topics & techniques
+
+
 
 ## Projects
 
@@ -28,11 +39,6 @@ about me
 
 - Javascript
 
-...
-
-### IDEs & Editors
-
-- Xcode
 ...
 
 ### Version Control
