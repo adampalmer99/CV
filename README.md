@@ -31,7 +31,7 @@ about me
 | **Project Titles** | **Description** | **Technologies** | **Notable Topics** |
 | :---: | :---: |:---: |:---: |
 | [DiceeSwiftUI](https://github.com/adampalmer99/DiceeSwiftUI) | Randomised dice roll | SwiftUI| Screen orientation |
-| [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | ...| Decode JSON, CoreLocation  |
+| [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, CoreLocation  |
 | ... | ... | ...| ... |
 | ... | ... | ...| ... |
  
