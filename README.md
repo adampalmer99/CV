@@ -8,15 +8,22 @@ about me
 
 - Swift
   - Cocoa
-  - 
+  - UIKit
+  - CLTypingLabel
+  - Firebase
+  - IQKeyboardManagerSwift
+  - CoreLocation
+  - SceneKit
+  - ARKit
 
 ### Tooling
 
 - Xcode
 - Deployed apps to my personal phone
 
-### Topics & techniques
 
+### Topics & techniques
+ 
 
 
 ## Projects
@@ -38,6 +45,7 @@ about me
 ### Languages
 
 - Javascript
+- Python
 
 ...
 
