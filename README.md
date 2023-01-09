@@ -41,6 +41,7 @@ about me
 | [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON |
 | [EggTimer](https://github.com/adampalmer99/EggTimerApp) | Countdown timer for 3 types of egg | Swift | Timer, UIProgressView |
 | [Calculator](https://github.com/adampalmer99/CalculatorApp) | Basic calculator theory | Swift | Screen orientation |
+| [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
 
  
 ## Current reading
