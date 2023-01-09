@@ -18,6 +18,10 @@ about me
   - CoreImage
   - AVFoundation
   - Mapkit
+  - Inception V3
+  - Social
+  - Vision
+  - CoreML
  
 
 ### Tooling
@@ -42,6 +46,7 @@ about me
 | [EggTimer](https://github.com/adampalmer99/EggTimerApp) | Countdown timer for 3 types of egg | Swift | Timer, UIProgressView |
 | [Calculator](https://github.com/adampalmer99/CalculatorApp) | Basic calculator theory | Swift | Screen orientation |
 | [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
+| [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |  
 
  
 ## Current reading
