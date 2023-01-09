@@ -32,8 +32,8 @@ about me
 | :---: | :---: |:---: |:---: |
 | [DiceeSwiftUI](https://github.com/adampalmer99/DiceeSwiftUI) | Randomised dice roll | SwiftUI| Screen orientation |
 | [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, CoreLocation  |
-| ... | ... | ...| ... |
-| ... | ... | ...| ... |
+| [ByteCoin](https://github.com/adampalmer99/ByteCoinApp) | Live Bitcoin price | Swift | Decode JSON  |
+| [Tipsy](https://github.com/adampalmer99/TipsyApp) | Calculates tips | Swift| Storyboard segues |
  
 ## Current reading
 
