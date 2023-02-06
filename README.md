@@ -49,11 +49,11 @@ about me
 | [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |  
 | [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | API call |
 | [iTahDoodle](https://github.com/adampalmer99/iTahDoodle) | To-do list. | Swift, Cocoa | Saving and loading data. |
-| [Pig-Game](https://github.com/adampalmer99/pig-game) | | JavaScript, HTML, CSS | |
-| [Mapty](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Mapty) | | JavaScript, HTML, CSS | |
-| [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | | JavaScript, HTML, CSS | |
-| [OOP](https://github.com/adampalmer99/JavaScriptProjects/tree/main/OOP) | Object Oriented Programming | JavaScript, HTML, CSS | |
-| []() | | JavaScript, HTML, CSS | |
+| [Pig-Game](https://github.com/adampalmer99/pig-game) | multiplayer dice game, first to a select number wins | JavaScript | HTML, CSS  |
+| [Mapty](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Mapty) | Log runs and cycles data. | JavaScript, HTML, CSS | Geolocation |
+| [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | Number guessing game | JavaScript, HTML, CSS | else if, displayMessage |
+| [OOP](https://github.com/adampalmer99/JavaScriptProjects/tree/main/OOP) | Dumping ground for OOP lesson. | JavaScript, HTML, CSS | Object Oriented Programming |
+| [Bankist](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Advanced-DOM-Bankist) | Bank app showcasing slides, section reveals, button scrolling and more. | JavaScript, HTML, CSS | Menu fade animation, lazy loading images |
 | []() | | JavaScript, HTML, CSS | |
 | []() | | JavaScript, HTML, CSS | |
 
