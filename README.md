@@ -52,7 +52,7 @@ about me
 | [Pig-Game](https://github.com/adampalmer99/pig-game) | | JavaScript, HTML, CSS | |
 | [Mapty](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Mapty) | | JavaScript, HTML, CSS | |
 | [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | | JavaScript, HTML, CSS | |
-| []() | | JavaScript, HTML, CSS | |
+| [OOP](https://github.com/adampalmer99/JavaScriptProjects/tree/main/OOP) | Object Oriented Programming | JavaScript, HTML, CSS | |
 | []() | | JavaScript, HTML, CSS | |
 | []() | | JavaScript, HTML, CSS | |
 | []() | | JavaScript, HTML, CSS | |
