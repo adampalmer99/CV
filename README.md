@@ -49,6 +49,14 @@ about me
 | [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |  
 | [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | API call |
 | [iTahDoodle](https://github.com/adampalmer99/iTahDoodle) | To-do list. | Swift, Cocoa | Saving and loading data. |
+| [Pig-Game](https://github.com/adampalmer99/pig-game) | | JavaScript, HTML, CSS | |
+| [Mapty](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Mapty) | | JavaScript, HTML, CSS | |
+| [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | | JavaScript, HTML, CSS | |
+| []() | | JavaScript, HTML, CSS | |
+| []() | | JavaScript, HTML, CSS | |
+| []() | | JavaScript, HTML, CSS | |
+| []() | | JavaScript, HTML, CSS | |
+
 
  
 ## Current reading
