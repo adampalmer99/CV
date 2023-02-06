@@ -54,15 +54,15 @@ about me
 | [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | Number guessing game | JavaScript, HTML, CSS | else if, displayMessage |
 | [OOP](https://github.com/adampalmer99/JavaScriptProjects/tree/main/OOP) | Dumping ground for OOP lesson. | JavaScript, HTML, CSS | Object Oriented Programming |
 | [Bankist](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Advanced-DOM-Bankist) | Bank app showcasing slides, section reveals, button scrolling and more. | JavaScript, HTML, CSS | Menu fade animation, lazy loading images |
-| []() | | JavaScript, HTML, CSS | |
-| []() | | JavaScript, HTML, CSS | |
 
 
  
-## Current reading
+## Books/Courses Completed
 
-- 
--
+- The Complete JavaScript Course- Zero to Hero by Jonas Schmedtmann.
+- iOS & Swift - The Complete iOS App Development Bootcamp by The App Brewery.
+- iOS 15 Programming for Beginners by Ahmad Sahar and Craig Clayton
+- Swift Programming by The Big Nerd Ranch Guide
 
 ## Other Programming
 
