@@ -1,6 +1,20 @@
 # Adam Palmer
 
-about me
+I am a self taught IOS developer, looking for a first opportunity as a Junior IOS developer. 
+After initially exploring game development using Unity and C# during the covid lockdown, in February 2021 I broke from my previous career to pursue my dream role in software development. 
+
+My first area of study was Javascript. I completed the Jonas Schmedtmann Complete JavaScript Course, which was a great introduction into language skills and basic web applications. From there, in July 2021 I made the decision to focus on IOS development, and after discovering a particular passion for this niche it became my main goal to work in the industry. 
+
+I worked through and completed both the App Brewery’s The Complete iOS App Development Bootcamp and the iOS 15 Programming for Beginners (Ahmad Sahar and Craig Clayton) book. After working back through these modules multiple times, to build up my understanding and depth, I then worked through and completed the The Big Nerd Ranch Guide’s Swift Programming book. This delved much deeper into the Swift language, with a hardcore focus on the language itself. I felt this was the appropriate next step, having become comfortable with app development more broadly. 
+
+Understanding the need for a workplace skill set, I am also investing time into Git version control, Postgres and Objective C.
+
+Whilst I appreciate my path has been an unconventional one, I believe this has come with some positive side effects.
+With no personal tutor to call on, I have developed debugging techniques and problem solving skills over the past 2 years, often using community forums such as Stack Overflow, or parsing open source documentation.
+It has also required great discipline, particularly given how daunting breaking into the industry can feel at times. For 2 years, besides a short hiatus for knee surgery I have studied 5-7 hours a day, 5 days a week. This has instilled a determination and a desire to continue learning.
+
+IOS development has become a passion for me, and I will continue to develop different apps. Some of those I have already built can be found below in the project section, with app previews in the READMEs. I hope to find myself in a professional atmosphere that gives space for personal growth and provides an opportunity to learn and contribute. In return, I am confident I can provide a dogged work ethic, enthusiasm and an ever growing technical skillset. 
+
 
 ## IOS Programming
 
