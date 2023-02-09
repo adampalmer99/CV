@@ -46,21 +46,27 @@ IOS development has become a passion for me, and I will continue to develop diff
 
 ### Topics & techniques
  
+ ## My Apps
+ 
+ | **Project Titles** | **Description** | **Technologies** | **Notable Topics** |
+ | :---: | :---: |:---: |:---: |
+ | [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, CoreLocation  |
+ | [ByteCoin](https://github.com/adampalmer99/ByteCoinApp) | Live Bitcoin price | Swift | Decode JSON  |
+ | [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
+ | [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |
+ | [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON |
+ 
+ 
 
 
-## Projects
+## Extra Projects
 
 | **Project Titles** | **Description** | **Technologies** | **Notable Topics** |
 | :---: | :---: |:---: |:---: |
 | [DiceeSwiftUI](https://github.com/adampalmer99/DiceeSwiftUI) | Randomised dice roll | SwiftUI| Screen orientation |
-| [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, CoreLocation  |
-| [ByteCoin](https://github.com/adampalmer99/ByteCoinApp) | Live Bitcoin price | Swift | Decode JSON  |
 | [Tipsy](https://github.com/adampalmer99/TipsyApp) | Calculates tips | Swift| Storyboard segues |
-| [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON |
 | [EggTimer](https://github.com/adampalmer99/EggTimerApp) | Countdown timer for 3 types of egg | Swift | Timer, UIProgressView |
-| [Calculator](https://github.com/adampalmer99/CalculatorApp) | Basic calculator theory | Swift | Screen orientation |
-| [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
-| [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |  
+| [Calculator](https://github.com/adampalmer99/CalculatorApp) | Basic calculator theory | Swift | Screen orientation |  
 | [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | API call |
 | [iTahDoodle](https://github.com/adampalmer99/iTahDoodle) | To-do list. | Swift, Cocoa | Saving and loading data. |
 | [XylophoneApp](https://github.com/adampalmer99/XylophoneApp) | Plays the note that's pressed. | Swift | AVFoundation |
