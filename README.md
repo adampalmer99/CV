@@ -1,5 +1,7 @@
 # Adam Palmer
 
+[iOS Programming](#ios-programming) | [My Apps](#my-apps) | [Extra Projects](#extra-projects) | [Learning](#bookscourses-completed) | [Other Programming](#other-programming)
+
 I am a self taught IOS developer, looking for a first opportunity as a Junior IOS developer. 
 After initially exploring game development using Unity and C# during the covid lockdown, in February 2021 I broke from my previous career to pursue my dream role in software development. 
 
