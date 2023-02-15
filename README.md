@@ -2,14 +2,14 @@
 
 [iOS Programming](#ios-programming) | [My Apps](#my-apps) | [Extra Projects](#extra-projects) | [Learning](#bookscourses-completed) | [Other Programming](#other-programming)
 
-I am a self taught IOS developer, looking for a first opportunity as a Junior IOS developer. 
+I am a self taught IOS developer of two years, looking for a first opportunity as a Junior IOS developer. 
 After initially exploring game development using Unity and C# during the covid lockdown, in February 2021 I broke from my previous career to pursue my dream role in software development. 
 
 My first area of study was Javascript. I completed the Jonas Schmedtmann Complete JavaScript Course, which was a great introduction into language skills and basic web applications. From there, in July 2021 I made the decision to focus on IOS development, and after discovering a particular passion for this niche it became my main goal to work in the industry. 
 
 I worked through and completed both the App Brewery’s The Complete iOS App Development Bootcamp and the iOS 15 Programming for Beginners (Ahmad Sahar and Craig Clayton) book. After working back through these modules multiple times, to build up my understanding and depth, I then worked through and completed the The Big Nerd Ranch Guide’s Swift Programming book. This delved much deeper into the Swift language, with a hardcore focus on the language itself. I felt this was the appropriate next step, having become comfortable with app development more broadly. 
 
-Understanding the need for a workplace skill set, I am also investing time into Git version control, Postgres and Objective C.
+Understanding the need for a workplace skill set, I am also investing time into Git version control, Postgres and Objective C. I have also taken on board holistic principles such as DRY (don't repeat yourself), magic values and Separation of Concerns, and tried to carry these into my code. 
 
 Whilst I appreciate my path has been an unconventional one, I believe this has come with some positive side effects.
 With no personal tutor to call on, I have developed debugging techniques and problem solving skills over the past 2 years, often using community forums such as Stack Overflow, or parsing open source documentation.
@@ -44,6 +44,7 @@ IOS development has become a passion for me, and I will continue to develop diff
 
 - Xcode
 - Deployed apps to my personal phone
+- SwiftUI
 
 
 ### Topics & techniques
@@ -52,11 +53,11 @@ IOS development has become a passion for me, and I will continue to develop diff
  
  | **Project Titles** | **Description** | **Technologies** | **Notable Topics** |
  | :---: | :---: |:---: |:---: |
- | [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, CoreLocation  |
- | [ByteCoin](https://github.com/adampalmer99/ByteCoinApp) | Live Bitcoin price | Swift | Decode JSON  |
+ | [Clima](https://github.com/adampalmer99/ClimaApp) | Live weather app | Swift | Decode JSON, REST api, CoreLocation  |
+ | [ByteCoin](https://github.com/adampalmer99/ByteCoinApp) | Live Bitcoin price | Swift | Decode JSON, REST api  |
  | [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
  | [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |
- | [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON |
+ | [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON, REST api |
  
  
 
@@ -69,7 +70,7 @@ IOS development has become a passion for me, and I will continue to develop diff
 | [Tipsy](https://github.com/adampalmer99/TipsyApp) | Calculates tips | Swift| Storyboard segues |
 | [EggTimer](https://github.com/adampalmer99/EggTimerApp) | Countdown timer for 3 types of egg | Swift | Timer, UIProgressView |
 | [Calculator](https://github.com/adampalmer99/CalculatorApp) | Basic calculator theory | Swift | Screen orientation |  
-| [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | API call |
+| [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | REST api |
 | [iTahDoodle](https://github.com/adampalmer99/iTahDoodle) | To-do list. | Swift, Cocoa | Saving and loading data. |
 | [XylophoneApp](https://github.com/adampalmer99/XylophoneApp) | Plays the note that's pressed. | Swift | AVFoundation |
 | [Quizzler](https://github.com/adampalmer99/Quizzler) | Quiz app | Swift | 2D Arrays |
@@ -94,8 +95,6 @@ IOS development has become a passion for me, and I will continue to develop diff
 
 - Javascript
 - Python
-
-...
 
 ### Version Control
 
