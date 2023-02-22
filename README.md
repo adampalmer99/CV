@@ -74,13 +74,12 @@ IOS development has become a passion for me, and I will continue to develop diff
 | [RandomPhoto](https://github.com/adampalmer99/RandomPhoto) | Generates random photo and random background colour. | Swift | REST api |
 | [iTahDoodle](https://github.com/adampalmer99/iTahDoodle) | To-do list. | Swift, Cocoa | Saving and loading data. |
 | [XylophoneApp](https://github.com/adampalmer99/XylophoneApp) | Plays the note that's pressed. | Swift | AVFoundation |
-| [Quizzler](https://github.com/adampalmer99/Quizzler) | Quiz app | Swift | 2D Arrays |
+| [Quizzler](https://github.com/adampalmer99/Quizzler) | Quiz app | Swift | 2D Arrays, Struct, stackView, UIProgressView, mutating functions |
 | [Pig-Game](https://github.com/adampalmer99/pig-game) | multiplayer dice game, first to a select number wins | JavaScript | HTML, CSS  |
 | [Mapty](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Mapty) | Log runs and cycles data. | JavaScript, HTML, CSS | Geolocation |
 | [GuessMyNumber](https://github.com/adampalmer99/JavaScriptProjects/tree/main/5-Guess-my-number) | Number guessing game | JavaScript, HTML, CSS | conditionals: else if, displayMessage |
 | [OOP](https://github.com/adampalmer99/JavaScriptProjects/tree/main/OOP) | Dumping ground for OOP lesson. | JavaScript, HTML, CSS | Object Oriented Programming |
 | [Bankist](https://github.com/adampalmer99/JavaScriptProjects/tree/main/Advanced-DOM-Bankist) | Bank app showcasing slides, section reveals, button scrolling and more. | JavaScript, HTML, CSS | Menu fade animation, lazy loading images |
-| [Quizzler](https://github.com/adampalmer99/Quizzler) | Quiz app | Swift | Struct, stackView, UIProgressView, mutating functions,  
 
 
  
