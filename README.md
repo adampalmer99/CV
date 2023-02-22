@@ -58,6 +58,7 @@ IOS development has become a passion for me, and I will continue to develop diff
  | [HackerNews](https://github.com/adampalmer99/HackerNews) | Latest news from H4X0R News | SwiftUI | WebKit, NetworkManager |
  | [SeeFood](https://github.com/adampalmer99/SeeFood) | Takes picture of an object and verifies if hotdog or not | Swift | CoreML, Inception V3, Vision, Social, UIKit |
  | [LetsEat](https://github.com/adampalmer99/LetsEat) | Restaurants app showing style of restaurant, opening times, leave reviews and photos. | Swift| info.plist, Mapkit, Segues, JSON, REST api |
+ | [BMICalculator](https://github.com/adampalmer99/BMICalculator) | Calculates BMI | Swift | UISlider, Segue |
  
  
 
