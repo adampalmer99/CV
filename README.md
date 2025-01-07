@@ -11,6 +11,8 @@ I worked through and completed both the App Brewery’s The Complete iOS App Dev
 
 I decided to enhance my skillset within the industry and Scala had caught my attention. I started studying through many courses such as Rock The JVM and had also signed up to a community called Scalabridge which is ran by Noel Welsh. Here I was able to mix with people from a variety of backgrounds, I had met developers from companies such as Apple, ClearScore and Elsevier. I also attended the in person meet ups and was able to make connections with developers and companies, I gained a lot from the experience and it helped me want to stay on the path of working within software development.
 
+I returned to Swift development as I wanted to improve my skills and began following a course by Jonathan Rasmusson which focused on building apps programmatically. I have also delved into Python, learning the fundamentals through an online course by Dr Fred Baptiste. I am also currently learning AWS and looking to gain a certification for a Foundational Cloud Practitioner, with an interest in completing further certifications at Associate level.
+
 Understanding the need for a workplace skill set, I am also investing time into Git version control, Postgres and Objective C. I have also taken on board holistic principles such as DRY (don't repeat yourself), magic values and Separation of Concerns, and tried to carry these into my code. 
 
 Whilst I appreciate my path has been an unconventional one, I believe this has come with some positive side effects.
