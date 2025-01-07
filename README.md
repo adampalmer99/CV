@@ -2,12 +2,14 @@
 
 [iOS Programming](#ios-programming) | [My Apps](#my-apps) | [Extra Projects](#extra-projects) | [Learning](#bookscourses-completed) | [Other Programming](#other-programming)
 
-I am a self taught IOS developer of two years, looking for a first opportunity as a Junior IOS developer. 
+I am a self taught IOS developer of two years, Scala of 1 year and 6 months learn, looking for a first opportunity as a Junior IOS developer. 
 After initially exploring game development using Unity and C# during the covid lockdown, in February 2021 I broke from my previous career to pursue my dream role in software development. 
 
 My first area of study was Javascript. I completed the Jonas Schmedtmann Complete JavaScript Course, which was a great introduction into language skills and basic web applications. From there, in July 2021 I made the decision to focus on IOS development, and after discovering a particular passion for this niche it became my main goal to work in the industry. 
 
-I worked through and completed both the App Brewery’s The Complete iOS App Development Bootcamp and the iOS 15 Programming for Beginners (Ahmad Sahar and Craig Clayton) book. After working back through these modules multiple times, to build up my understanding and depth, I then worked through and completed the The Big Nerd Ranch Guide’s Swift Programming book. This delved much deeper into the Swift language, with a hardcore focus on the language itself. I felt this was the appropriate next step, having become comfortable with app development more broadly. 
+I worked through and completed both the App Brewery’s The Complete iOS App Development Bootcamp and the iOS 15 Programming for Beginners (Ahmad Sahar and Craig Clayton) book. After working back through these modules multiple times, to build up my understanding and depth, I then worked through and completed the The Big Nerd Ranch Guide’s Swift Programming book. This delved much deeper into the Swift language, with a hardcore focus on the language itself. I felt this was the appropriate next step, having become comfortable with app development more broadly.
+
+I decided to enhance my skillset within the industry and Scala had caught my attention. I started studying through many courses such as Rock The JVM and had also signed up to a community called Scalabridge which is ran by Noel Welsh. Here I was able to mix with people from a variety of backgrounds, I had met developers from companies such as Apple, ClearScore and Elsevier. I also attended the in person meet ups and was able to make connections with developers and companies, I gained a lot from the experience and it helped me want to stay on the path of working within software development.
 
 Understanding the need for a workplace skill set, I am also investing time into Git version control, Postgres and Objective C. I have also taken on board holistic principles such as DRY (don't repeat yourself), magic values and Separation of Concerns, and tried to carry these into my code. 
 
@@ -39,15 +41,16 @@ IOS development has become a passion for me, and I will continue to develop diff
   - Vision
   - CoreML
  
-
 ### Tooling
 
 - Xcode
 - Deployed apps to my personal phone
 - SwiftUI
+- Visual Studio Code
+- IntelliJ
 
 
-### Topics & techniques
+
  
  ## My Apps
  
@@ -89,13 +92,18 @@ IOS development has become a passion for me, and I will continue to develop diff
 - iOS & Swift - The Complete iOS App Development Bootcamp by The App Brewery.
 - iOS 15 Programming for Beginners by Ahmad Sahar and Craig Clayton
 - Swift Programming by The Big Nerd Ranch Guide
+- Rock The JVM Scala For Beginners
+- Rock The JVM Advanced Scala
+- Rock The JVM Cats Course
 
 ## Other Programming
 
 ### Languages
 
+- Scala
 - Javascript
 - Python
+- AWS
 
 ### Version Control
 
